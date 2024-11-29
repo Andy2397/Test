@@ -10,7 +10,7 @@ Nombre: Andres Burgoa Serna
 ------
 ## Clona y crea tu repositorio para la evaluación ##
 * Clona este repositorio en tu máquina local
-* Crear un repositorio público en tu cuenta personal de GitHub, BitBucket o Gitlab
+* Crear un repositogit pullrio público en tu cuenta personal de GitHub, BitBucket o Gitlab
 * Cambia el origen remoto para que apunte al repositorio público que acabas crear en tu cuenta
 * Coloca tu nombre en este archivo README.md y realiza un push al repositorio remoto
 
